@@ -1,0 +1,51 @@
+.nav-item {
+	line-height: 45px;
+}
+
+.cards-section {
+	padding: 4%;
+
+}
+
+.btn {
+	border-radius: 0;
+}
+
+.dropdown {
+	background-image: url(../images/dropdown.jpg);
+	background-repeat: no-repeat;
+	height: 65vh;
+	padding-top: 20%;
+}
+
+.img-section, .img-section1, .img-section2, .img-section3, .text-section {
+	height: 45vh;
+}
+
+.img-section {
+	background-image: url(../images/sn1.jpg);
+	background-repeat: no-repeat;
+}
+
+.text-section {
+	padding: 10%;
+}
+
+.img-section1 {
+	background-image: url(../images/sn2.jpg);
+	background-repeat: no-repeat;
+}
+
+.img-section2 {
+	background-image: url(../images/sn3.jpg);
+	background-repeat: no-repeat;
+}
+
+.img-section3 {
+	background-image: url(../images/sn4.jpg);
+	background-repeat: no-repeat;
+}
+.footer {
+	background-color: #343d3d;
+	padding: 3%;
+}
